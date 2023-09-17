@@ -51,11 +51,6 @@ Welcome to my GitHub profile! I am a third-year undergraduate student at IIT Gan
 - Implemented encoder-decoder network for image compression on Fashion-MNIST dataset using Keras.
 - Analyzed learned representations with t-SNE, emphasizing decoder's role in restoring data to original dimensions.
 
-### Investment Banking Experience Programme at Finlactics (05/2022 - 08/2022)
-
-- Participated in the Investment Banking Experience program, researching various types of private equity funds.
-- Assisted in analyzing financial data and preparing presentations, offering recommendations for internal and external investments.
-
 ## Education
 
 - **B.Tech** at **IIT Gandhinagar** (11/2021 - Present)
